@@ -81,3 +81,5 @@ tools/FlameGraph
 # VS
 .vs/
 .idea/
+out/
+cmake-build-debug/
